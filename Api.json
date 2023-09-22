@@ -1,0 +1,63 @@
+[
+{
+"id" : 101,
+"nomeTime" : "Faze Clan",
+"img" : "https://upload.wikimedia.org/wikipedia/commons/4/4d/Faze_Clan.svg",
+"corPrimario" : "#E43D30",
+"corSecundario" : "#000000"
+},
+{"id": 102,
+"nomeTime": "Cloud9",
+"img" : "https://upload.wikimedia.org/wikipedia/commons/f/f7/Cloud9_logo_c._2023.svg",
+"corPrimario" : "#00AEEF",
+"corSecundario" : "#FFFFFF"
+},
+{"id": 103,
+"nomeTime" : "Team Vitality",
+"img" : "https://upload.wikimedia.org/wikipedia/commons/0/0a/Team_Vitality_logo_2023.png",
+"corPrimario" : "#FFC72C",
+"corSecundario" : "#221C35"
+},
+{"id": 104,
+"nomeTime" : "Astralis",
+"img" : "https://upload.wikimedia.org/wikipedia/commons/7/7d/Astralis_logo.svg",
+"corPrimario" : "#FF0000",
+"corSecundario" : "#FFFFFF"
+},
+{"id": 105,
+"nomeTime" : "FURIA Esports",
+"img" : "https://upload.wikimedia.org/wikipedia/pt/f/f9/Furia_Esports_logo.png",
+"corPrimario" : "#FFFFFF",
+"corSecundario" : "#000000"
+},
+{"id": 106,
+"nomeTime" : "Fnatic",
+"img" : "https://upload.wikimedia.org/wikipedia/pt/f/f0/Fnatic_logo.png",
+"corPrimario" : "#FF5900",
+"corSecundario" : "#000000"
+},
+{"id": 107,
+"nomeTime" : "Evil Geniuses",
+"img" : "https://teamcolorcodes.com/wp-content/uploads/2020/10/Evil-Geniuses-Logo.png",
+"corPrimario" : "#0C1220",
+"corSecundario" : "#D1D3D4"
+},
+{"id": 108,
+"nomeTime" : "OpTic Gaming",
+"img" : "https://upload.wikimedia.org/wikipedia/commons/6/69/5TUZP6HGMBH4THUFPYZ5YYLPNE.png",
+"corPrimario" : "#9DC73B",
+"corSecundario" : "#000000"
+},
+{"id": 109,
+"nomeTime" : "Team Liquid",
+"img" : "https://upload.wikimedia.org/wikipedia/pt/4/4b/Teamliquid_logo_blue.png",
+"corPrimario" : "#0A1723",
+"corSecundario" : "#FFFFFF"
+},
+{"id": 110,
+"nomeTime" : "NRG",
+"img" : "https://upload.wikimedia.org/wikipedia/commons/b/b7/NRG_Esports_logo.svg",
+"corPrimario" : "#FFFFFF",
+"corSecundario" : "#000000"
+}
+]
