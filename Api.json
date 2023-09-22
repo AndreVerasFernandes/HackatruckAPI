@@ -2,13 +2,13 @@
 {
 "id" : 101,
 "nomeTime" : "Faze Clan",
-"img" : "https://upload.wikimedia.org/wikipedia/commons/4/4d/Faze_Clan.svg",
+"img" : "https://logos-world.net/wp-content/uploads/2021/01/FaZe-Clan-Logo.png",
 "corPrimario" : "#E43D30",
 "corSecundario" : "#000000"
 },
 {"id": 102,
 "nomeTime": "Cloud9",
-"img" : "https://upload.wikimedia.org/wikipedia/commons/f/f7/Cloud9_logo_c._2023.svg",
+"img" : "https://upload.wikimedia.org/wikipedia/commons/f/fd/Cloud9.png",
 "corPrimario" : "#00AEEF",
 "corSecundario" : "#FFFFFF"
 },
@@ -20,7 +20,7 @@
 },
 {"id": 104,
 "nomeTime" : "Astralis",
-"img" : "https://upload.wikimedia.org/wikipedia/commons/7/7d/Astralis_logo.svg",
+"img" : "https://img1.gratispng.com/20180607/wsg/kisspng-counter-strike-global-offensive-astralis-intel-ex-team-liquid-5b19315ee73b76.1769196015283776949471.jpg",
 "corPrimario" : "#FF0000",
 "corSecundario" : "#FFFFFF"
 },
